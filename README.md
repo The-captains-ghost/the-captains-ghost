@@ -1,7 +1,8 @@
 ## working on...
 
 
-insert image one
+![tumblr_2e9120403cbdc4a6abbaa8230c40c662_01316165_400](https://github.com/user-attachments/assets/1778b2e4-a48a-4f21-bb3a-f58c7e9cb31c)
+
 
 
 $\Large\color{#34b1eb}{\textsf{"-insert quote one here-"}}$
