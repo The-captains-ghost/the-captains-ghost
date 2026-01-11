@@ -31,10 +31,13 @@ $\Large\color{#34b1eb}{\textsf{"-insert quote three here-"}}$
 insert more text
 
 
-insert final image here
+![tumblr_8f3bdb9650d3bdc186d90c8ddbb41ed9_4665cfc0_400](https://github.com/user-attachments/assets/278c244a-6efa-4810-a7df-bc39835ae317)
 
 
-$\Large\color{#5c2323}{\textsf{"-insert final quote here-"}}$
+
+$\Large\color{#5c2323}{\textsf{"-Because, were it not for that, you would never had met us,and our lives would be poorer for it -"}}$
+
+$\Large\color{#5c2323}{\textsf{"- ...deaths, deaths.""}}$
 
 
 insert text
