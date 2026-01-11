@@ -8,7 +8,7 @@ $\Large\color{#34b1eb}{\textsf{"-insert quote one here-"}}$
 
 hellooo!
 
-my name is will, mobius, pryce, or the doctor!
+my name is will, thomas, the captain, or the doctor!
 
 My pronouns consistantly stay masculine, any feminine terms will be called out, and I will state that I am uncomfortable.
 
