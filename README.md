@@ -1,16 +1,41 @@
-## Hi there 👋
+## working on...
 
-<!--
-**The-captains-ghost/the-captains-ghost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+insert image one
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+$\Large\color{#34b1eb}{\textsf{"-insert quote one here-"}}$
+
+hellooo!
+
+my name is will, mobius, pryce, or the doctor!
+
+My pronouns consistantly stay masculine, any feminine terms will be called out, and I will state that I am uncomfortable.
+
+
+insert second image here
+
+
+$\Large\color{#34b1eb}{\textsf{"-insert quote two here-"}}$
+
+
+insert more text
+
+
+insert third image here
+
+
+$\Large\color{#34b1eb}{\textsf{"-insert quote three here-"}}$
+
+insert more text
+
+
+insert final image here
+
+
+$\Large\color{#5c2323}{\textsf{"-insert final quote here-"}}$
+
+
+insert text
+
+insert hyper links
